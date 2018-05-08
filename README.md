@@ -1,2 +1,2 @@
 # CRAX.py
-Unfinished encryption &amp; decryption python program 
+Encryption &amp; decryption python program 
