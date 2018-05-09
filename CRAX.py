@@ -107,7 +107,7 @@ cipher = {
 def encrypt(x):
     loading()
     print("\n")
-    ask = input("»»» Type the text you want do ecrypt: ")
+    ask = input("»»» Type the text you want to encrypt: ")
     print("\n»»» Encrypted text:", ' '.join(x[c] for c in ask))
     
 reverse_cipher = {v: k for k, v in cipher.items()}
